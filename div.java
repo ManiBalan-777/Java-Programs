@@ -8,7 +8,7 @@ class add
 		int    a=s.nextInt();
 		System.out.println("Enter     b:");
 		int    b=s.nextInt();
-		int c=a*b;	
+		int c=a/b;	
 		System.out.println("total="+c);
 	}
 }

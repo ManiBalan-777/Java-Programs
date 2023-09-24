@@ -2,8 +2,8 @@ class strtoint
 {
 	public static void main(Strin ar[])
 	{
-		int i=10;
-		String s=String.valueOf(i);
+		String s="123";
+		int i=Integer.parseInt(s);
 		System.out.println(s + 20);
 		System.out.println(i +20);
 	}
